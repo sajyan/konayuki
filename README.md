@@ -7,7 +7,7 @@
     <meta http-equiv="Cache-Control" content="no-cache">
     <meta http-equiv="Expires" content="0">
 
-    <title>CIMS Download</title>
+    <title>Forked Konayuki @ Bangkok</title>
     <link rel="stylesheet" href="index.css">
     <link rel="stylesheet" href="slide.css">
     <script src="jquery.min.js.ダウンロード"></script>
